@@ -5,7 +5,7 @@
             "type": "java",
             "name": "Run OrderManagementSystem",
             "request": "launch",
-            "mainClass": "question1.OrderManagementSystem",
+            "mainClass": "OrderManagementSystem",
             "classPaths": [
                 "${workspaceFolder}/bin",
                 "${workspaceFolder}/lib/mysql-connector-j-9.7.0.jar"

@@ -1,4 +1,13 @@
-# Maven target
+# Ignore temporary folders
+Submission/
+Question1/
+Question2/
+
+# Document files
+*.docx
+~$*.docx
+
+# Maven target & build
 target/
 **/target/
 
