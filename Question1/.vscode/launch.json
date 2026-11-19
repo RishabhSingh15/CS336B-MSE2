@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run OrderManagementSystem",
+            "request": "launch",
+            "mainClass": "question1.OrderManagementSystem",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/lib/mysql-connector-j-9.7.0.jar"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

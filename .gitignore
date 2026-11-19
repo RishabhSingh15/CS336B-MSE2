@@ -1,0 +1,13 @@
+# Maven target
+target/
+**/target/
+
+# Java class files
+*.class
+bin/
+**/bin/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
